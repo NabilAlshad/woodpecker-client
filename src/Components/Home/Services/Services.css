@@ -1,0 +1,15 @@
+.service-title {
+  width: 40%;
+  background: linear-gradient(
+    90deg,
+    rgba(2, 0, 36, 1) 0%,
+    rgba(9, 121, 75, 1) 0%,
+    rgba(76, 176, 196, 1) 100%
+  );
+  text-align: center;
+  color: white;
+  font-size: 55px;
+  padding: 10px;
+  margin: 10px auto;
+  transition: 1s;
+}

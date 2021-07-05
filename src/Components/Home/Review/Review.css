@@ -1,0 +1,17 @@
+.mt-5.card-review.rounded.p-5 {
+  transition: 1s;
+}
+
+.mt-5.card-review.rounded.p-5:hover {
+  box-shadow: 10px 10px 10px 10px;
+}
+h1.text-success.text-center {
+  margin-top: 6%;
+  font-size: 55px;
+}
+h1.text-success.text-center.shadow-lg {
+  width: 45%;
+  margin: 2% auto;
+
+  padding: 1%;
+}

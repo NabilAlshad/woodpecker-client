@@ -1,0 +1,7 @@
+.card {
+  transition: 1s;
+}
+
+.card:hover {
+  box-shadow: 15px 15px 15px 15px rgb(203, 223, 223);
+}

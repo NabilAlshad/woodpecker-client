@@ -1,0 +1,10 @@
+.sidebar {
+  height: 200vh;
+  max-height: 100%np;
+  background-color: aquamarine;
+  padding: 10px;
+}
+a.nav-link.bg-warning.text-white {
+  margin: 10px;
+  color: white;
+}
